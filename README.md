@@ -1,2 +1,2 @@
-# LinkedListPalindrome
-Check if string linked list is a palindrome or not
+# Java_learnings
+Short java codes or tricks
